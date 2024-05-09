@@ -1,10 +1,10 @@
 import '@styles/globals.css';
-
 import Nav from '@components/Nav';
 import Provider from '@components/Provider';
 export const metadata ={
     title: "JhongTopia",
-    description: 'Discover & Share Perspectives'
+    description: 'Discover & Share Perspectives',
+    keywords: 'JHONG, Jhong , JHONGJHONG'
 }
 
 function RootLayout({children}) {
